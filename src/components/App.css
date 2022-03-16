@@ -1,0 +1,29 @@
+.app {
+    text-size-adjust: none;
+    font-family: helvetica, arial, sans-serif;
+    line-height: 200%;
+    padding: 6px 20px 30px;
+}
+
+.app .loedel-diagram {
+    display: flex;
+}
+
+.app .loedel-diagram svg {
+    border: 1px solid;
+}
+
+.app .loedel-diagram .grid-intensity-range {
+    margin-left: 10px;
+}
+
+
+.app .loedel-diagram .container {
+    background-color: red;
+}
+
+
+
+.graph {
+    border: 1px solid;
+}
